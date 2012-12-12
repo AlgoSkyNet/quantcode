@@ -1,7 +1,7 @@
 #IFNDEF __C4_PAY_OFF_HPP
 #DEFINE __C4_PAY_OFF_HPP
 
-#include <algorithm>   // This is needef for the std::max function
+#include <algorithm>   // This is needed for the std::max comparison function, used in the pay-off calculations
 
 class PayOff {
 public:
